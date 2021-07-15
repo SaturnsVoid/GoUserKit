@@ -4,5 +4,5 @@
 # Features
  - Makes Process Critical
  - Hides Files
- - Simple Add to Startup (HCLU Run)
+ - Simple Add to Startup (HKCU Run)
  - Registery Watcher (Will fix registry changes automaticlly)
