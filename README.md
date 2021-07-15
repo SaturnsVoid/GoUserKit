@@ -2,7 +2,7 @@
  Simple UserKit for Malware written in Go
 
 # Features
- - Makes Process Critical
+ - Makes Process Critical (NtSetInformationProcess)
  - Hides Files
  - Simple Add to Startup (HKCU Run)
- - Registery Watcher (Will fix registry changes automaticlly)
+ - Registery Watcher (RegNotifyChangeKeyValue)
